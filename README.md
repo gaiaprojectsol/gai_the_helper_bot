@@ -1,4 +1,3 @@
-# gai_the_helper_bot
 🌱 Gaia Project — AI Agent (Telegram + Solana + Local Knowledge Base)
 
 Welcome to the official repository for the Gaia Project AI Agent — a custom-built assistant designed to support the lore, mechanics, and development of the Gaia universe on Solana.
