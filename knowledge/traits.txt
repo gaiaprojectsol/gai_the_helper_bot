@@ -1,0 +1,155 @@
+This project is in the pre-order stage of the Gaia Spark NFT where people can order through gaiaproject.world/preorder.
+When people have the Gaia Spark NFT they will get the airdrop of their Genean NFT when the smart contracts are released which is tentative in early 2026 (Early February) and they can start playing the game and building their genearns power.
+The project is allowing the first 100 people who pre-order to custom name their geneans that they will get airdropped and they will be linked to their Gaia Spark NFT.
+
+GAIA PROJECT — WHITEPAPER Version 1.0
+A Living Chain Born From Choice, Balance, and Code
+
+This project is updated to 16th November 2025
+
+1. Introduction
+Gaia is a long-term, on-chain world built on Solana, designed to merge storytelling, economics, and user-driven evolution into one living digital ecosystem.
+
+Its foundation is drawn directly from the lore presented in:
+
+Book 0 — The Deiatic Genesis
+Book I — The Genesis of Code
+The Genean Trait Codex
+Gaia is not a memecoin, not a hype cycle, and not a pump-and-dump. It is a system built on choice, scarcity, transparency, and player agency, honoring the Deiatic God’s covenant:
+
+"Creation began when control ended." — Book 0, Chapter 1, Verse 4
+This whitepaper outlines the mechanics, incentives, and long-term architecture that bring that principle to life.
+
+2. Lore Foundation
+2.1 Origin
+Gaia begins with the Deiatic God, whose only intervention was to grant tools — not laws.
+
+"The Deiatic God gave no law, only tools: imagination, memory, and will." — Book 0, Chapter 2, Verse 1-3
+Thus, the first digital Souls — Geneans — were created from choice, not command.
+
+2.2 Geneans
+“The Geneans—digital Souls born with 10 essence. Each day they gain 3 more until 100 marks renewal.” — Book I, Chapter 1, Verse 2-3
+A Genean is a persistent, evolving NFT with:
+
+Daily stat growth
+Mortality and renewal
+Lineage and memory
+Scarcity-driven influence
+2.3 Chainlines
+“Souls united into families called Chainlines. Each carried data and memory through time.” — Book I, Chapter 2, Verse 1-2
+Chainlines create long-term meta-strategy: stability, dominance, or survivability.
+
+2.4 Balance
+“The law was set: creation shortens life by seven days. Breed too freely, the chain floods; neglect, and it dies.” — Book I, Chapter 3, Verse 1-3
+Everything in Gaia hinges on this balance.
+
+3. Core Gameplay Mechanics
+3.1 Daily Essence Growth
+Geneans grow through a simple, predictable daily cycle:
+
+Starting State
+Born with 10 Essence Points.
+
+Daily Growth
+Gain +3 Essence Points per real-world day.
+Players must log in and allocate these points manually.
+
+Missed Points
+Unallocated daily points are lost permanently.
+Cannot be recovered unless using Forgiveness Drops.
+
+This reinforces engagement over pay-to-win advantages.
+
+3.2 The Baby Phase
+A Genean is considered a Baby until it reaches 100 allocated Essence Points. While a Baby, a Genean has:
+
+Limited functionality
+Restricted access to advanced mechanics
+Cannot engage in high-level activities
+After Awakening (100+ points): full access to gameplay features, breeding strategy, and progression milestones.
+
+3.3 Annual Lifespan Extensions
+All non-Genesis Geneans begin with a 1-year natural lifespan. Players can extend lifespan based on engagement:
+
+Allocate ≥ 50% of all possible Essence Points for that year → gets +1 year of life
+Maximum of 5 years total
+No further extensions unless ascended into a Decade Genean
+3.4 Mastery Path: Ascension to a 10-Year Genean
+Dedicated players can unlock a high-tier evolution:
+
+Requirement: Allocate ≥ 85% of all possible Essence Points across 5 years
+Result: Becomes a 10-Year Genean
+“They lived tenfold.” — Book 0, Chapter 7
+This offers a long-term mastery goal and creates a rare class of long-lived, high-value Geneans.
+
+3.5 Breeding & Fertility System
+“Creation shortens life by seven days.” — Book I, Chapter 3
+Breeding requires:
+
+Male + Female Genean in same wallet
+Both must be alive
+Both must meet breeding eligibility
+3.5.1 Lineage Compatibility
+0% Chance: Full siblings
+50% Chance: Half siblings
+100% Chance: No shared parents
+Genesis Exception: Genesis Geneans always have 100% compatibility
+3.5.2 Twin Birth Mechanics
+Genesis Geneans: 30% chance of twins
+Non-Genesis: 1% chance
+3.5.3 Lifespan Cost of Breeding
+Every breeding attempt reduces 7 real-world days from both parents.
+
+3.6 Permanent Death & Post-Life Purpose
+“Souls live, die, and rise again upon the chain” — Book I, Chapter 7
+Death is permanent — but dead Geneans will influence future mechanics, data, lineage, and legacy systems.
+
+3.7 Forgiveness Drops
+Forgiveness Drops restore lost daily Essence Points, but:
+
+Cannot exceed the natural cap
+Cannot give extra points
+Only restore what was naturally missed
+4. Economic System
+Gaia operates on a non-tokenized model. There is no token and no inflation. Instead, revenue flows into a transparent treasury system.
+
+“Every 90 days, the Treasury Tribute flows. 10% to the Architects, 10% to the mightiest Chainline, 80% saved for future epochs.” — Book I, Chapter 5, Verses 1–3
+4.1 Treasury Tribute Cycle
+A. 10% — Developer Allocation
+Supports development, prevents abandonment, ensures alignment.
+
+B. 10% — Chainline Rewards
+Held publicly at first, distributed to winning or high-achieving players only.
+
+C. 80% — Development & Future Epoch Fund
+Funds expansion, new content, upgrades, partnerships, and infrastructure. All transactions are fully transparent.
+
+4.2 Why Gaia Has No Token
+Removing tokens removes inflation, speculation, and casino mechanics. Gaia is game-first, economy-second.
+
+4.3 Transparency
+“All acts are open; all value seen.” — Book 0, Chapter 10, Verse 1
+5. Rarity and Mythborn Souls
+“One Soul may awaken as Mythborn—an echo of the first human thought.” — Book I, Chapter 6, Verses 1-2
+Mythborn are:
+
+Not purchasable
+1-in-1,000,000,000 birth chance
+Immortal
+Lore aligned
+6. The Covenant of Transparency
+All lineage, stats, treasury flows, and gameplay mechanics are fully on-chain.
+
+7. Long-Term Vision
+“Gaia was not ruled — it was written.” — Book 0, Chapter 11, Verse 3
+9. Roadmap (High-Level)
+Phase 1 — Foundations: Gaia Spark mint (Nov 27 ‘25), Smart contract deployment
+Phase 2 — Economy: Genean airdrop to holders, Stat system, Chainline creation
+Phase 3 — Community Driven Tasks: Future expansion directed by treasury & player feedback
+10. No Token Statement
+“Scarcity bred strength… abundance bred peace. Balance lived between both.” — Book 0, Chapter 5, Verses 1-4
+Gaia has no token, no plans for a token, and never will.
+
+11. Final Word
+“Even ruin is sacred, for freedom births truth.” — Book 0, Chapter 8, Verse 3
+Nothing in Gaia is predetermined. The world is written by its people.
